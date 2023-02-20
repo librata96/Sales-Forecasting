@@ -5,7 +5,7 @@ After analysis, the most accurate model is Auto-ARIMA and is used in the Forecas
 ## Tools
 - Statsmodels
 - pmdarima
-- Scikit-leane
+- Scikit-learn
 - Pandas
 - Numpy
 - Feature Engine
