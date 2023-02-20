@@ -12,4 +12,4 @@ After analysis, the most accurate model is Auto-ARIMA and is used in the Forecas
 - Seaborn
 
 ## Deployment
-You can forecast a product here [Hugging Face](https://huggingface.co/spaces/barentz96/Plant_Nutrition)
+You can forecast a product here [Hugging Face](https://huggingface.co/spaces/barentz96/Sales_Forecasting)
